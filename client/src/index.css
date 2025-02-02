@@ -1,0 +1,15 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(193, 216, 236);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1200px;
+    width: 100vw;
+}
